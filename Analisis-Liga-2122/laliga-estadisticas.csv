@@ -1,0 +1,21 @@
+RL,Equipo,PJ,PG,PE,PP,GF,GC,DG,Pts,Pts/PJ,xG,xGA,xGD,xGD/90,Asistencia,Máximo Goleador del Equipo,Portero,Notas
+1,Real Madrid,38,26,8,4,80,31,+49,86,2.26,78.9,48.2,+30.7,+0.81,41235,Karim Benzema - 27,Thibaut Courtois,→ Champions League Por el final de liga
+2,Barcelona,38,21,10,7,68,38,+30,73,1.92,67.7,39.8,+27.9,+0.73,53982,Memphis Depay - 12,Marc-André ter Stegen,→ Champions League Por el final de liga
+3,Atlético Madrid,38,21,8,9,65,43,+22,71,1.87,58.6,38.7,+19.9,+0.52,48039,Ángel Correa - 12,Jan Oblak,→ Champions League Por el final de liga
+4,Sevilla,38,18,16,4,53,30,+23,70,1.84,48.4,43.3,+5.1,+0.13,29756,Rafa Mir - 10,Yassine Bounou,→ Champions League Por el final de liga
+5,Betis,38,19,8,11,62,40,+22,65,1.71,59.0,48.8,+10.2,+0.27,41749,Juanmi - 16,Rui Silva,→ Europa League Por ganar la copa
+6,Real Sociedad,38,17,11,10,40,37,+3,62,1.63,57.9,44.1,+13.8,+0.36,26813,Mikel Oyarzabal - 9,Álex Remiro,→ Europa League Por el final de liga
+7,Villarreal,38,16,11,11,63,37,+26,59,1.55,67.5,50.9,+16.6,+0.44,14293,Arnaut Groeneveld - 10,Gerónimo Rulli,→ Europa Conference League Por el final de liga
+8,Athletic Club,38,14,13,11,43,36,+7,55,1.45,54.4,43.4,+11.0,+0.29,32949,Iñaki Williams - 8,Unai Simón,
+9,Valencia,38,11,15,12,48,53,-5,48,1.26,43.6,49.0,-5.4,-0.14,27349,Gonçalo Guedes Carlos Soler - 11,Giorgi Mamardashvili,
+10,Osasuna,38,12,11,15,37,51,-14,47,1.24,40.3,48.8,-8.4,-0.22,17107,Ante Budimir - 8,Sergio Herrera,
+11,Celta Vigo,38,12,10,16,43,43,0,46,1.21,46.7,49.6,-2.8,-0.07,10014,Iago Aspas - 18,Matías Dituro,
+12,Rayo Vallecano,38,11,9,18,39,50,-11,42,1.11,50.2,51.9,-1.7,-0.05,7866,Sergi Guardiola - 8,Stole Dimitrievski,
+13,Elche,38,11,9,18,40,52,-12,42,1.11,36.3,64.8,-28.6,-0.75,15640,Pere Milla - 8,Édgar Badía,
+14,Espanyol,38,10,12,16,40,53,-13,42,1.11,40.4,57.0,-16.6,-0.44,17362,Raúl de Tomás - 17,Diego López,
+15,Getafe,38,8,15,15,33,41,-8,39,1.03,33.4,42.2,-8.8,-0.23,8702,Enes Ünal - 16,David Soria,
+16,Mallorca,38,10,9,19,36,63,-27,39,1.03,44.0,54.3,-10.2,-0.27,12712,Vedat Muriqi Salva Sevilla - 5,Manolo Reina,
+17,Cádiz,38,8,15,15,35,51,-16,39,1.03,45.1,55.0,-9.9,-0.26,14055,Anthony Lozano Álvaro Negredo - 7,Jeremías Ledesma,
+18,Granada,38,8,14,16,44,61,-17,38,1.00,45.0,64.5,-19.5,-0.51,13710,Jorge Molina - 10,Luís Maximiano,Descendido
+19,Levante,38,8,11,19,51,76,-25,35,0.92,61.2,60.9,+0.3,+0.01,14961,José Luis Morales - 13,Cárdenas,Descendido
+20,Alavés,38,8,7,23,31,65,-34,31,0.82,41.1,64.6,-23.4,-0.62,10952,Joselu - 14,Fernando Pacheco,Descendido
